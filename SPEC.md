@@ -106,8 +106,8 @@ CREATE TABLE speed_log (
 
 ## 7. Acceptance Criteria
 
-- [ ] Speed data recorded every 1 second in PostgreSQL
-- [ ] Real-time UI updates without page refresh
-- [ ] Dockerized application (backend, frontend, database)
-- [ ] Speedometer gauge displays current speed visually
-- [ ] Source code includes necessary comments
+- [x] Speed data recorded every 1 second in PostgreSQL
+- [x] Real-time UI updates without page refresh
+- [x] Dockerized application (backend, frontend, database)
+- [x] Speedometer gauge displays current speed visually
+- [x] Source code includes necessary comments
